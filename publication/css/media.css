@@ -1,0 +1,92 @@
+@media screen and (max-width: 1440px) {
+    .container {
+        max-width: 1080px;
+    }
+    
+    .container-2 {
+        max-width: 1080px;
+    }
+
+    .main__img {
+        max-width: 1080px;
+    }
+
+    .img-illustration {
+        max-width: 1080px;
+    }
+
+    .container-3 {
+        max-width: 1320px;
+    }
+
+    .div-container {
+        display: block;
+        max-width: 1320px;
+    }
+
+    .div-price {
+        max-width: 1320px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        max-width: 800px;
+    }
+
+    .container-2 {
+        max-width: 800px;
+    }
+
+    .main__img {
+        max-width: 800px;
+    }
+        
+    .img-illustration {
+        max-width: 800px;
+    }
+
+    .container-3 {
+        max-width: 904px;
+    }
+
+    .div-container {
+        display: block;
+        max-width: 904px;
+    }
+    .div-price {
+        max-width: 904px;
+    }
+    
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        max-width: 375px;
+    }
+
+    .container-2 {
+        max-width: 375px;
+    }
+
+    .main__img {
+        max-width: 375px;
+    }
+
+    .img-illustration {
+        max-width: 375px;
+    }
+
+    .container-3 {
+        max-width: 315px;
+    }
+
+    .div-container {
+        display: block;
+        max-width: 315px;
+    }
+
+    .div-price {
+        max-width: 315px;
+    }
+}
